@@ -3,4 +3,4 @@ authors = ["Viktor Nareiko"]
 language = "en"
 multilingual = false
 src = "src"
-title = "BIT :: LT :: DB :: 8 presentation :: Programmable objects"
+title = "BIT :: LT :: DB :: 8 presentation :: Programmable objects, triggers, exception handling"
