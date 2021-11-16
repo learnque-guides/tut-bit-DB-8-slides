@@ -12,3 +12,4 @@
 - [DML triggers](./dml_triggers.md)
 - [DDL triggers](./ddl_triggers.md)
 - [Error handling](./error_handling.md)
+- [Exercise 1](./exercise_1.md)
